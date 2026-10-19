@@ -5,7 +5,7 @@
    - lib/ dan ikon: cache dulu (versi dipin, jarang berubah).
    - Font Google: disimpan setelah pertama kali dimuat agar tampilan tetap sama saat offline.
    Naikkan CACHE_NAME setiap kali file di lib/ atau ikon diganti. */
-const CACHE_NAME = 'admin-gudang-v2';
+const CACHE_NAME = 'admin-gudang-v3';
 const FONT_CACHE = 'admin-gudang-font-v1';
 const ASSETS = [
   './', './index.html', './manifest.json', './icon.svg',
